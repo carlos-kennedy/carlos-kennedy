@@ -1,4 +1,6 @@
-<img aling="right" height="600em" src="https://raw.githubusercontent.com/gist/carlos-kennedy/fcc1e924855f7364db7b0f7ba6fd7945/raw/f44cb227c026dc6f95da2c5237609e15c7910426/githubcard.svg">
+
+<hr>
+<img aling="right" height="580em" src="https://raw.githubusercontent.com/gist/carlos-kennedy/fcc1e924855f7364db7b0f7ba6fd7945/raw/f44cb227c026dc6f95da2c5237609e15c7910426/githubcard.svg">
 
 <h1 align= "left">
   <img src= "https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px"> Seja bem vindo, sou Carlos Kennedy 
@@ -33,7 +35,7 @@
 
   <h2> <img src="https://c.tenor.com/w3nUMtKvIdAAAAAi/swipe-on-phone-colors.gif" width="100px">Social links </h2>
     
-<p align="left" style="background:yellow">
+<p align="left">
 
 <a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/">
   <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=instagram">
