@@ -1,11 +1,10 @@
 
 <hr>
-<img aling="right" height="580em" src="https://raw.githubusercontent.com/gist/carlos-kennedy/d546cbd8187497042c70505f87dd34f7/raw/9ef490436c22c40e750d60e81ae1a7c354ecdab5/githubcard.svg">
-
+<img align="right" height="550em"
+     src="https://raw.githubusercontent.com/gist/carlos-kennedy/d546cbd8187497042c70505f87dd34f7/raw/9ef490436c22c40e750d60e81ae1a7c354ecdab5/githubcard.svg">
 <h1 align= "left">
-  <img src= "https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px"> Seja bem vindo, sou Carlos Kennedy 
+   <img src="https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px">Seja bem-vindo, sou Carlos Kennedy 
 </h1>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=7F61F8" 
        </p>
