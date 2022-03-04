@@ -1,6 +1,6 @@
-👋Olá, tudo bem?👋<br>
+👋Olá, tudo bem? <br>
 Sou <strong>Carlos Kennedy</strong> estou treinando e aprendendo a ser um Desenvolvedor Web. <br> 
-👀 Tenho bastante interesse em Front-end e gostaria de aprofundar-me cada vez mais nessa área. 👀  <br>
+Tenho bastante interesse em Front-end e gostaria de aprofundar-me cada vez mais nessa área.  <br>
 No momento estou estudando <strong>HTML5</strong> e <strong>CSS3</strong> e em breve <strong>JavaScript</strong>.<br>
 <hr>
 <em>Para contato deixarei minhas redes abaixo.</em> &#x1F60A;
