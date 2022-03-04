@@ -1,23 +1,55 @@
-👋Olá, tudo bem? <br>
-Sou <strong>Carlos Kennedy</strong> estou treinando e aprendendo a ser um Desenvolvedor Web. <br> 
-Tenho bastante interesse em Front-end e gostaria de aprofundar-me cada vez mais nessa área.  <br>
-No momento estou estudando <strong>HTML5</strong> e <strong>CSS3</strong> e em breve <strong>JavaScript</strong>.<br>
-<hr>
-<em>Para contato deixarei minhas redes abaixo.</em> &#x1F60A;
-<br><br>
+<img aling="right" height="600em" src="https://raw.githubusercontent.com/gist/carlos-kennedy/fcc1e924855f7364db7b0f7ba6fd7945/raw/f44cb227c026dc6f95da2c5237609e15c7910426/githubcard.svg">
 
-<strong>Instagram:</strong>
-https://www.instagram.com/carlos.kny.carlos/ <br>
+<h1 align= "left">
+  <img src= "https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px"> Seja bem vindo, sou Carlos Kennedy 
+</h1>
 
-<strong>Twitter:</strong>
-https://twitter.com/Carlozotas <br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=7F61F8" 
+       </p>
+  
+   <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="28px"> <strong> Desenvolvedor front-end aprendiz </strong>;
 
-<strong>Github:</strong>
-https://github.com/carlos-kennedy <br>
+   <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" width="28px"> Estou aprendendo no momento: <strong>HTML:5 e CSS3</strong>;
+  
+   <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="28px"> Cursando <strong> Analise e desenvolvimento de sistemas </strong>;
+  
+  <br><br>
 
-<strong>Linkedin:</strong>
-https://www.linkedin.com/in/carloskennedydmr/ <br>
+  <h2> <img src="https://c.tenor.com/KNZuGWgvOfQAAAAi/error-404.gif" width="80px"> Tech Stack </h2>
+  
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css3)
+  
+  <br><br>
+  
+  <h2> <img src="https://c.tenor.com/XGvReyHIJtwAAAAi/work-work-work-a-lot-of-work.gif" width="100px"> Github analistics </h2>
+  
+  <p align="left">
+ <img width="500em" src="https://github-readme-stats.vercel.app/api?username=carlos-kennedy&show_icons=true&theme=midnight-purple" alt="carlos-kennedy's stats"/>
+  
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple"/>
+  </p>
 
-<strong>Facebook:</strong>
-https://www.facebook.com/carlos.ky.3990 
+  <h2> <img src="https://c.tenor.com/w3nUMtKvIdAAAAAi/swipe-on-phone-colors.gif" width="100px">Social links </h2>
+    
+<p align="left" style="background:yellow">
+
+<a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/">
+  <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=instagram">
+  </a>
+<a target="_blank" href="https://twitter.com/Carlozotas">
+  <img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&logo=twitter"> 
+  </a> 
+<a target="_blank" href="https://github.com/carlos-kennedy">
+  <img src="https://img.shields.io/badge/-github-05122A?style=for-the-badge&logo=github"> 
+  </a>
+<a target="_blank" href="https://www.linkedin.com/in/carloskennedydmr/">
+  <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
+  </a> 
+<a target="_blank" href="https://www.facebook.com/carlos.ky.3990">
+  <img src="https://img.shields.io/badge/-facebook-05122A?style=for-the-badge&logo=facebook">
+  </a>
+  </p>
+                                                 
 <hr>
