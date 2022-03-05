@@ -24,7 +24,7 @@
   
   <br><br>
   
-  <h2> <img src="https://c.tenor.com/XGvReyHIJtwAAAAi/work-work-work-a-lot-of-work.gif" width="100px"> Github analistics </h2>
+  <h2> <img src="https://c.tenor.com/XGvReyHIJtwAAAAi/work-work-work-a-lot-of-work.gif" width="100px"> Github Analytics </h2>
   
   <p align="left">
  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=carlos-kennedy&show_icons=true&theme=midnight-purple" alt="carlos-kennedy's stats"/>
