@@ -17,22 +17,24 @@
   
   <br><br>
 
-  <h2> <img src="https://c.tenor.com/KNZuGWgvOfQAAAAi/error-404.gif" width="80px"> Tech Stack </h2>
+  <h2> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100px"> Tech Stack </h2>
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css3)
   
   <br><br>
   
-  <h2> <img src="https://c.tenor.com/XGvReyHIJtwAAAAi/work-work-work-a-lot-of-work.gif" width="100px"> Github Analytics </h2>
+  <h2> <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s" width="100px"> Github Analytics </h2>
   
   <p align="left">
  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=carlos-kennedy&show_icons=true&theme=midnight-purple" alt="carlos-kennedy's stats"/>
   
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple"/>
   </p>
+  
+  <br><br>
 
-  <h2> <img src="https://c.tenor.com/w3nUMtKvIdAAAAAi/swipe-on-phone-colors.gif" width="100px">Social links </h2>
+  <h2> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" width="100px">Social links </h2>
     
 <p align="left">
 
