@@ -5,9 +5,6 @@
 <h1 align= "left">
    <img src="https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px">Seja bem-vindo(a), sou Carlos Kennedy 
 </h1>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=7F61F8">
-       </p>
   
    <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="28px"> <strong> Desenvolvedor front-end aprendiz </strong>;
 
