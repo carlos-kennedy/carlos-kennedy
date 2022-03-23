@@ -6,7 +6,7 @@
    <img src="https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px">Seja bem-vindo(a), sou Carlos Kennedy 
 </h1>
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=790aa1" alt="Visualizações no perfil" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=790aa1" alt="Visualizações no perfil" /> </p> 
  
    <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="28px"> <strong> Desenvolvedor front-end aprendiz </strong>;
 
