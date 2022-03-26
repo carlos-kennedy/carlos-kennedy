@@ -10,7 +10,7 @@
    <img src="https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px">Seja bem-vindo(a), sou Carlos Kennedy 
 </h1>
   
-   <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="28px"> <strong> Desenvolvedor front-end aprendiz </strong>;
+   <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="28px"> <strong> Desenvolvedor aprendiz </strong>;
 
    <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" width="28px"> Estou aprendendo no momento: <strong>HTML:5 e CSS3 </strong>;
   
