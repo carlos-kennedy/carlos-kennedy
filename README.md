@@ -14,7 +14,7 @@
 
    <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" width="28px"> Estou aprendendo no momento: <strong>HTML:5 e CSS3 </strong>;
   
-   <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="28px"> Cursando <strong> Analise e desenvolvimento de sistemas </strong>;
+<!--    <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="28px"> Cursando <strong> Analise e desenvolvimento de sistemas </strong>; -->
    
   <br><br>
 
