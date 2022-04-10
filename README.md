@@ -23,6 +23,7 @@
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-css-05122A?style=for-the-badge&logo=css3)
+  ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)
   ![GITHUB](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=github)
   ![VSCODE](https://img.shields.io/badge/-VScode-05122A?style=for-the-badge&logo=visualstudiocode)
  
