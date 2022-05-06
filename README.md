@@ -53,7 +53,7 @@
 <a target="_blank" href="https://github.com/carlos-kennedy">
   <img src="https://img.shields.io/badge/-github-05122A?style=for-the-badge&logo=github"> 
   </a>
-<a target="_blank" href="https://www.linkedin.com/in/carloskennedydmr/">
+<a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/">
   <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
   </a> 
 <a target="_blank" href="https://www.facebook.com/carlos.ky.3990">
