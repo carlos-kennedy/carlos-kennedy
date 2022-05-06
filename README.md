@@ -1,24 +1,23 @@
-<p align="center"> 
-     <img height="20em" src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=790aa1" alt="Visualizações no perfil"/> 
-</p> 
-
-<hr>
-<img align="right" height="550em"
+<img align="right" height="540em" width="380em"
      src="https://gist.githubusercontent.com/carlos-kennedy/d546cbd8187497042c70505f87dd34f7/raw/9ef490436c22c40e750d60e81ae1a7c354ecdab5/githubcard.svg">
      
-<h1 align="left">
-   <img src="https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif" width="85px">Seja bem-vindo(a), sou Carlos Kennedy 
-</h1>
-  
-   <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="28px"> <strong> Desenvolvedor aprendiz </strong>;
+<h1 align="center">
+ <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px"> Hi , I'm Carlos Kennedy <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px">
+<p align="center"> 
+     <img height="20em" src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=E5CE5B" alt="Visualizações no perfil"/> 
+</p> 
 
-   <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" width="28px"> Estou aprendendo no momento: <strong>HTML:5 e CSS3 </strong>;
+</h1>
+
+  - <img src="https://c.tenor.com/TZyciZ_VKUgAAAAi/buenos-dias.gif" width="30px"> Passionate about learning **programming** and my goal is to be able to use my skills to help and work.
   
-<!--    <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="28px"> Cursando <strong> Analise e desenvolvimento de sistemas </strong>; -->
+   - <img src="https://c.tenor.com/ee-uSWWIE28AAAAi/cute-penguin.gif" width="38px">  **Apprentice Front-end developer**.
+   
+ - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" width="28px"> I have experience in: **HTML:5 and CSS3**.
    
   <br><br>
 
-  <h2 align="center"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100px"> Tech Stack </h2>
+  <h2 align="left"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100px"> Tech Stack </h2>
   
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
