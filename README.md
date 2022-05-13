@@ -1,5 +1,5 @@
 <img align="right" height="540em" width="380em"
-     src="https://gist.githubusercontent.com/carlos-kennedy/d546cbd8187497042c70505f87dd34f7/raw/9ef490436c22c40e750d60e81ae1a7c354ecdab5/githubcard.svg">
+     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg">
      
 <h1 align="center">
  <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px"> Hi , I'm Carlos Kennedy <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="45px">
