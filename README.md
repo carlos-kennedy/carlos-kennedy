@@ -24,7 +24,7 @@
       
   <br><br>
 
-  <h2 align="left"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center"  width="120px"> Tech Stack </h2>
+  <h2 align="left"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" title="Tech Stack" align="center"  width="120px"> Tech Stack </h2>
   
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
@@ -37,34 +37,34 @@
   <br><br>
    
   <h2 align="center">
-     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s" align="center"  width="120px">
+     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s" title="Github Analytics" align="center"  width="120px">
      Github Analytics </h2>
   <br>
   
   <p align="center">
-      <img width="500em" align="center"  src="https://github-readme-stats.vercel.app/api?username=carlos-kennedy&show_icons=true&theme=midnight-purple" alt="carlos-kennedy's stats"/>
-      <img width="500em"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple"/>
+      <img width="480em" align="center"  src="https://github-readme-stats.vercel.app/api?username=carlos-kennedy&show_icons=true&theme=midnight-purple" title="carlos-kennedy status" alt="carlos-kennedy's stats"/>
+      <img width="470em"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple" title="carlos-kennedy status" alt="carlos-kennedy's stats"/>
   </p>
   
   <br><br>
 
-  <h2 align="center"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" align="center"  width="120px"> Social links </h2>
+  <h2 align="center"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" title="Social links" align="center"  width="120px"> Social links </h2>
     
 <p align="center">
 
-<a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/">
+<a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/" title="instagram">
   <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=instagram">
   </a>
-<a target="_blank" href="https://twitter.com/Carlozotas">
+<a target="_blank" href="https://twitter.com/Carlozotas" title="twitter">
   <img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&logo=twitter"> 
   </a> 
-<a target="_blank" href="https://github.com/carlos-kennedy">
+<a target="_blank" href="https://github.com/carlos-kennedy" title="github">
   <img src="https://img.shields.io/badge/-github-05122A?style=for-the-badge&logo=github"> 
   </a>
-<a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/">
+<a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/"  title="linkedin">
   <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
   </a> 
-<a target="_blank" href="https://www.facebook.com/carlos.ky.3990">
+<a target="_blank" href="https://www.facebook.com/carlos.ky.3990" title="facebook">
   <img src="https://img.shields.io/badge/-facebook-05122A?style=for-the-badge&logo=facebook">
   </a>
   </p>
