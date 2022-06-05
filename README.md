@@ -14,14 +14,14 @@
 
 </h1>
 
-  - <p align="left"> <img src="https://c.tenor.com/TZyciZ_VKUgAAAAi/buenos-dias.gif" align="center" height="45px"> Passionate about learning <strong> programming </strong> and my goal is to be able to use my skills to help and work. </p>
+  - <p align="left"> <img src="https://c.tenor.com/TZyciZ_VKUgAAAAi/buenos-dias.gif" align="center" height="28px"> Passionate about learning <strong> programming </strong> and my goal is to be able to use my skills to help and work. </p>
   
-  - <p align="left"> <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" align="center" height="45px" alt="pinguimAndandoComCafé"><strong> Apprentice Front-end developer </strong>. </p>
+  - <p align="left"> <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" align="center" height="28px" alt="pinguimAndandoComCafé"><strong> Apprentice Front-end developer </strong>. </p>
    
-  - <p align="left"> <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" align="center" height="45px" alt="pinguimNoComputador"> <strong> Currently studying: </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30px" title="JavaScript" alt="logoJavascript" /> </p>
+  - <p align="left"> <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" align="center" height="28px" alt="pinguimNoComputador"> <strong> Currently studying: </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30px" title="JavaScript" alt="logoJavascript" /> </p>
  
    
- - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="45px" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong> <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" />
+ - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="28px" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong> <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>  <img align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" />
           
       
   <br><br>
