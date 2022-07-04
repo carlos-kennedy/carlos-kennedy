@@ -1,6 +1,6 @@
 <hr>
 
-<img align="right" height="520rem" width="380rem"  title="Yes it's me" 
+<img align="right" height="520rem" width="380rem" title="Yes it's me" 
      src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
          
 <h1 align="center">
@@ -24,7 +24,7 @@
            
   <br><br>
 
-  <h2 align="left"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" title="Tech Stack" align="center"  height="120rem"> Tech Stack </h2>
+  <h2 align="left" title="Tech Stack"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center"  height="120rem"> Tech Stack </h2>
   
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
@@ -36,8 +36,8 @@
   
   <br><br>
    
-  <h2 align="center">
-     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s" title="Github Analytics" align="center"  height="120rem">
+  <h2 align="center" title="Github Analytics">
+     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s"  align="center"  height="120rem">
      Github Analytics
 </h2>
   
@@ -50,7 +50,7 @@
   
   <br><br>
 
-  <h2 align="center"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" title="Social links" align="center"  height="120rem">
+  <h2 align="center" title="Social links"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"align="center"  height="120rem">
      Social links 
 </h2>
     
@@ -75,8 +75,8 @@
      
  <br>
      
- <h3 align="left">
- <img src="https://i.imgur.com/NLY6j3Q.gif" align="center" height="25"/>
+ <h3 align="left" title="Escutando no momento">
+ <img src="https://i.imgur.com/NLY6j3Q.gif" alt="logo do spotify" align="center" height="25" />
  Escutando no momento..
  </h3>
  
