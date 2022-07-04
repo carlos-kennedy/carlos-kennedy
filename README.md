@@ -1,10 +1,10 @@
 <hr>
 
 <img align="right" height="520rem" width="380rem"  title="Yes it's me" 
-     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg">
-     
+     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
+         
 <h1 align="center">
- <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="35rem">
+ <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="35rem"/>
      Hi , I'm Carlos Kennedy
      <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem">
      
@@ -19,11 +19,9 @@
   - <p align="left"> <img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" align="center" height="28rem" alt="pinguimAndandoComCafé"><strong> Apprentice Front-end developer </strong>. </p>
    
   - <p align="left"> <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" align="center" height="28rem" alt="pinguimNoComputador"> <strong> Currently studying: </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30rem" title="JavaScript" alt="logoJavascript" /> </p>
- 
    
  - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="20rem" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>  <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" />
-          
-      
+           
   <br><br>
 
   <h2 align="left"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" title="Tech Stack" align="center"  height="120rem"> Tech Stack </h2>
@@ -74,5 +72,14 @@
   <img src="https://img.shields.io/badge/-facebook-05122A?style=for-the-badge&logo=facebook">
   </a>
   </p>
-                                                 
+     
+ <br>
+     
+ <h3 align="left">
+ <img src="https://i.imgur.com/NLY6j3Q.gif" align="center" height="25"/>
+ Escutando no momento..
+ </h3>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3vsqxzlyw75hby44hzmpj38jv&cover_image=true&theme=natemoo-re&bar_color=7451c8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+     
 <hr>
