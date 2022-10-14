@@ -4,14 +4,9 @@
      src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
          
 <h1 align="center">
- <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="35rem"/>
+ <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem"/>
      Hi , I'm Carlos Kennedy
-     <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem">
-     
-<p align="center"> 
-     <img height="20em" src="https://komarev.com/ghpvc/?username=carlos-kennedy&color=E5CE5B" alt="Visualizações no perfil"/> 
-</p> 
-
+     <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem">   
 </h1>
 
   - <p align="left"> <img src="https://c.tenor.com/TZyciZ_VKUgAAAAi/buenos-dias.gif" align="center" height="20rem"> Passionate about learning <strong> programming </strong> and my goal is to be able to use my skills to help and work. </p>
