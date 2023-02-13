@@ -15,7 +15,10 @@
    
   - <p align="left"> <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" align="center" height="28rem" alt="pinguimNoComputador"> <strong> Currently studying: </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30rem" title="JavaScript" alt="logoJavascript" /> </p>
    
- - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="20rem" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>  <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" /> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+ - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="20rem" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>  <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" /> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
+
+
+          
    
            
   <br><br>
