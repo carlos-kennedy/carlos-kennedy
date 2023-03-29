@@ -1,9 +1,15 @@
 <hr>
 
+<div align="center">
+  <a href="#tech-stack">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#github-analytics">Github Analytics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#social-links">Social Links</a>&nbsp;&nbsp;&nbsp;
+</div>
+
 <img align="right" height="520rem" width="380rem" title="Yes it's me" 
      src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
          
-<h1 align="center">
+<h1 id="tech-stack" align="center">
  <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem"/>
      Hi , I'm Carlos Kennedy
      <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem">   
@@ -16,11 +22,7 @@
   - <p align="left"> <img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" align="center" height="28rem" alt="pinguimNoComputador"> <strong> Currently studying: </strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30rem" title="JavaScript" alt="logoJavascript" /> </p>
    
  - <img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="20rem" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>  <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" /> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
-
-
-          
-   
-           
+        
   <br><br>
 
   <h2 align="left" title="Tech Stack"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center"  height="120rem"> Tech Stack </h2>
@@ -36,8 +38,8 @@
   
   <br><br>
    
-  <h2 align="center" title="Github Analytics">
-     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s"  align="center"  height="120rem">
+  <h2 id="github-analytics" align="center" title="Github Analytics">
+     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s" align="center" height="120rem">
      Github Analytics
 </h2>
   
@@ -50,7 +52,7 @@
   
   <br><br>
 
-  <h2 align="center" title="Social links"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"align="center"  height="120rem">
+  <h2 id="social-links" align="center" title="Social links"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"align="center"  height="120rem">
      Social links 
 </h2>
     
@@ -75,9 +77,9 @@
      
  <br>
      
- <h3 align="left" title="Escutando no momento">
+ <h3 id="currently-listening" align="left" title="Currently listening">
  <img src="https://i.imgur.com/NLY6j3Q.gif" alt="logo do spotify" align="center" height="25" />
- Escutando no momento..
+Currently listening...
  </h3>
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3vsqxzlyw75hby44hzmpj38jv&cover_image=true&theme=natemoo-re&bar_color=7451c8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
