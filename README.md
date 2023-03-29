@@ -25,7 +25,7 @@
         
   <br><br>
 
-  <h2 align="left" title="Tech Stack"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center"  height="120rem"> Tech Stack </h2>
+  <h2 align="left" title="Tech Stack"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center"  height="100rem"> Tech Stack </h2>
   
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
@@ -39,7 +39,7 @@
   <br><br>
    
   <h2 id="github-analytics" align="center" title="Github Analytics">
-     <img src="https://media2.giphy.com/media/gniz0qUijH8T7yRQWR/giphy.gif?cid=ecf05e473agd0bxkdh8hxhm94ek4xzrabqzq2lyp2nsf67uy&rid=giphy.gif&ct=s" align="center" height="120rem">
+     <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" align="center" height="100rem">
      Github Analytics
 </h2>
   
@@ -52,7 +52,7 @@
   
   <br><br>
 
-  <h2 id="social-links" align="center" title="Social links"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif"align="center"  height="120rem">
+  <h2 id="social-links" align="center" title="Social links"> <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" align="center"  height="100rem">
      Social links 
 </h2>
     
