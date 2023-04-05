@@ -1,14 +1,14 @@
 <hr>
 
-<div align="center">
+<img align="right" height="520rem" width="380rem" title="Yes it's me" 
+     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
+ 
+ <div align="center">
   <a href="#tech-stack">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#github-analytics">Github Analytics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#social-links">Social Links</a>&nbsp;&nbsp;&nbsp;
 </div>
-
-<img align="right" height="520rem" width="380rem" title="Yes it's me" 
-     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
-         
+ 
 <h1 id="tech-stack" align="center">
  <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem"/>
      Hi , I'm Carlos Kennedy
