@@ -4,7 +4,7 @@
      src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
  
  <div align="center">
-  <a href="#tech-stack">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tech-stack">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#github-analytics">Github Analytics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#social-links">Social Links</a>&nbsp;&nbsp;&nbsp;
 </div>
