@@ -50,7 +50,6 @@
   <br>
   
   <p align="center">
-  <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-kennedy&show_icons=true&theme=midnight-purple" title="carlos-kennedy's status" alt="carlos-kennedy's stats"/> 
       <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple" title="carlos-kennedy's most languages" alt="carlos-kennedy's stats"/> 
   </p>
   
