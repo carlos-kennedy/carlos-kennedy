@@ -1,8 +1,6 @@
 <hr>
 
-<img align="right" height="520rem" width="380rem" title="Yes it's me" 
-     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
- 
+
  <div align="center">
   <a href="#tech-stack">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#github-analytics">Github Analytics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,6 +12,10 @@
      Hi , I'm Carlos Kennedy
      <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem">   
 </h1>
+
+<img align="right" height="520rem" width="380rem" title="Yes it's me" 
+     src="https://gist.githubusercontent.com/carlos-kennedy/d1360c0c8b6a82c0be16c688ee9e1425/raw/e3b47ae3ed969c3457b8cb765b876705f65cc206/githubcardv2.svg"/>
+ 
 
   - <p align="left"> <img src="https://c.tenor.com/TZyciZ_VKUgAAAAi/buenos-dias.gif" align="center" height="20rem"> Passionate about learning <strong> programming </strong> and my goal is to be able to use my skills to help and work. </p>
   
@@ -27,7 +29,7 @@
 
   <h2 align="left" title="Tech Stack"> <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center"  height="100rem"> Tech Stack </h2>
   
-  
+
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
   ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass)
