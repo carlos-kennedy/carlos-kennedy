@@ -27,6 +27,10 @@
   </li>
 </ul>
 
+<br><br>
+<br><br>
+<br><br>
+
 <p align="left" id="tech-stack" title="Tech Stack"><img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center" height="100rem"> <strong>Tech Stack</strong></p>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
@@ -39,14 +43,21 @@
 ![EXPRESS](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS)
 
+<br><br>
+<br><br>
+<br><br>
+
 <p id="github-analytics" align="center" title="Github Analytics">
   <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" align="center" height="100rem">
   <strong>Github Analytics</strong>
 </p>
-
 <p align="center">
   <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple" title="carlos-kennedy's most languages" alt="carlos-kennedy's stats"/>
 </p>
+
+<br><br>
+<br><br>
+<br><br>
 
 <p id="social-links" align="center" title="Social links">
   <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" align="center" height="100rem">
