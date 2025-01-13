@@ -77,9 +77,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/" title="linkedin">
     <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
   </a>
-  <a target="_blank" href="https://www.facebook.com/carlos.ky.3990" title="facebook">
-    <img src="https://img.shields.io/badge/-facebook-05122A?style=for-the-badge&logo=facebook">
-  </a>
 </p>
 
 <h3 id="currently-listening" align="left" title="Currently listening">
