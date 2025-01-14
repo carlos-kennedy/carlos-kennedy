@@ -1,23 +1,31 @@
+<hr>
 <h1 align="center">
-  <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem"/>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/hand-with-index-finger-and-thumb-crossed_1faf0.png" align="center" style="vertical-align: middle;" height="35rem"/>
   Hi, I'm Carlos Kennedy
-  <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" align="center" height="35rem">   
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/call-me-hand_1f919.png" align="center" height="35rem">   
 </h1>
 
 <div align="center">
-<a href="#tech-stack">Tech Stack</a>
-<a href="#github-analytics">Github Analytics</a>
-<a href="#social-links">Social Links</a>
+<a href="#tech-stack">
+    <img src="https://img.shields.io/badge/-Tech Stack-8257E5?style=for-the-badge">
+</a>
+<a href="#github-analytics">
+    <img src="https://img.shields.io/badge/-Github Analytics-8257E5?style=for-the-badge">
+  </a>
+<a href="#social-links">
+    <img src="https://img.shields.io/badge/-Social links-8257E5?style=for-the-badge">
+</a>
 </div>
 
+<a href="https://github.com/carlos-kennedy" target="_blank">
 <img align="right" height="fit-content" width="300rem" title="Yes it's me" 
      src="https://raw.githubusercontent.com/gist/carlos-kennedy/6ad03e8e34525d1bb2204c1b5d55bef3/raw/57ce9679f6c7450015a8fb64ff3b277d455ba4a0/githubcard-att.svg"/>
-
+</a>
 <ul>
-  <li><p align="left"><img src="https://c.tenor.com/TZyciZ_VKUgAAAAi/buenos-dias.gif" align="center" height="20rem"> Passionate about learning <strong>programming</strong> and my goal is to use my skills to help and work.</p></li>
-  <li><p align="left"><img src="https://c.tenor.com/ooCje3Ear_UAAAAi/penguin-catscafe.gif" align="center" height="28rem" alt="pinguimAndandoComCafé"><strong>Apprentice Front-end developer</strong>.</p></li>
-  <li><p align="left"><img src="https://c.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" align="center" height="28rem" alt="pinguimNoComputador"><strong>Currently studying:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30rem" title="JavaScript" alt="logoJavascript" /></p></li>
-  <li><img src="https://c.tenor.com/9LLhY-WtfbcAAAAi/afas-software-afas.gif" align="center" height="20rem" alt="telaFlutuanteDeDados"> <strong>I have experience in:</strong>
+  <li><p align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkling-heart_1f496.png" align="center" height="28rem"> Passionate about learning <strong>programming</strong> and my goal is to use my skills to help and work.</p></li>
+  <li><p align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/hot-beverage_2615.png" align="center" height="28rem" alt="pinguimAndandoComCafé"><strong> Front-end developer</strong>.</p></li>
+  <li><p align="left"><img src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_light-skin-tone_270d-1f3fb_1f3fb.png" align="center" height="28rem" alt="Notebook abrindo e fechando"><strong> Currently studying:</strong> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" width="30rem" title="JavaScript" alt="logoJavascript" /></p></li>
+  <li><img src="https://em-content.zobj.net/source/telegram/386/laptop_1f4bb.webp" align="center" height="20rem" alt="telaFlutuanteDeDados"> <strong> I have experience in:</strong>
     <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML:5" alt="logoHtml5"/>
     <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="logoCSS3" />
     <img align="center" width="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -47,11 +55,11 @@
 <br><br>
 <br><br>
 
-<p id="github-analytics" align="center" title="Github Analytics">
+<p id="github-analytics" align="left" title="Github Analytics">
   <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" align="center" height="100rem">
   <strong>Github Analytics</strong>
 </p>
-<p align="center">
+<p align="left">
   <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple" title="carlos-kennedy's most languages" alt="carlos-kennedy's stats"/>
 </p>
 
@@ -59,17 +67,17 @@
 <br><br>
 <br><br>
 
-<p id="social-links" align="center" title="Social links">
+<p id="social-links" align="left" title="Social links">
   <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" align="center" height="100rem">
   <strong>Social links</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/" title="instagram">
     <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=instagram">
   </a>
   <a target="_blank" href="https://twitter.com/Carlozotas" title="twitter">
-    <img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&logo=twitter">
+    <img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&logo=x">
   </a>
   <a target="_blank" href="https://github.com/carlos-kennedy" title="github">
     <img src="https://img.shields.io/badge/-github-05122A?style=for-the-badge&logo=github">
@@ -80,8 +88,9 @@
 </p>
 
 <h3 id="currently-listening" align="left" title="Currently listening">
-  <img src="https://i.imgur.com/NLY6j3Q.gif" alt="logo do spotify" align="center" height="25" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/shaking-face_1fae8.png" alt="Emoji se tremendo" align="center" height="25rem" />
   Currently listening...
 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3vsqxzlyw75hby44hzmpj38jv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3vsqxzlyw75hby44hzmpj38jv&redirect=true)
+<hr>
