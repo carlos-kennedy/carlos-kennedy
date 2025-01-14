@@ -79,9 +79,6 @@
   <a target="_blank" href="https://twitter.com/Carlozotas" title="twitter">
     <img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&logo=x">
   </a>
-  <a target="_blank" href="https://github.com/carlos-kennedy" title="github">
-    <img src="https://img.shields.io/badge/-github-05122A?style=for-the-badge&logo=github">
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/" title="linkedin">
     <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
   </a>
