@@ -91,8 +91,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3vsqxzlyw75hby44hzmpj38jv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3vsqxzlyw75hby44hzmpj38jv&redirect=true)
 
-<a href="#"> 
+<a href="#" >
+  <div align="center"> 
 <img src="https://em-content.zobj.net/source/microsoft-teams/363/backhand-index-pointing-up_1f446.png" width="30rem">
-  Voltar para cima !
+<img src="https://img.shields.io/badge/-back to top-8257E5?style=for-the-badge"/>
+  </div>
 </a>
 <hr>
