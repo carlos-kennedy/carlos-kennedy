@@ -39,7 +39,7 @@
 <br><br>
 <br><br>
 
-<p align="left" id="tech-stack" title="Tech Stack"><img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Emoji Rocket" align="center" height="100rem"> <strong>Tech Stack</strong></p>
+<h2 align="left" id="tech-stack" title="Tech Stack"><img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Emoji Rocket" align="center" height="100rem"> <strong>Tech Stack</strong></h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
@@ -55,22 +55,22 @@
 <br><br>
 <br><br>
 
-<p id="github-analytics" align="left" title="Github Analytics">
+<h2 id="github-analytics" align="left" title="Github Analytics">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/crystal-ball_1f52e.png" alt="Crystal Ball Emoji" align="center" height="100rem">
   <strong>Github Analytics</strong>
-</p>
-<p align="left">
+</h2>
+<h2 align="left">
   <img width="420em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-kennedy&layout=compact&theme=midnight-purple" title="carlos-kennedy's most languages" alt="carlos-kennedy's stats"/>
-</p>
+</h2>
 
 <br><br>
 <br><br>
 <br><br>
 
-<p id="social-links" align="left" title="Social links">
+<h2 id="social-links" align="left" title="Social links">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/milky-way_1f30c.png" alt="Galaxy Emoji" align="center" height="100rem">
   <strong>Social links</strong>
-</p>
+</h2>
 
 <p align="left">
   <a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/" title="instagram">
