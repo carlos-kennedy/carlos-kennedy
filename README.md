@@ -1,8 +1,8 @@
 <hr>
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/hand-with-index-finger-and-thumb-crossed_1faf0.png" align="center" style="vertical-align: middle;" height="35rem"/>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/hand-with-index-finger-and-thumb-crossed_1faf0.png" alt="Emoji of hand crossing fingers in heart shape" align="center" style="vertical-align: middle;" height="35rem"/>
   Hi, I'm Carlos Kennedy
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/call-me-hand_1f919.png" align="center" height="35rem">   
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/call-me-hand_1f919.png"  alt="Hand emoji doing hang loose" align="center" height="35rem">   
 </h1>
 
 <div align="center">
@@ -39,7 +39,7 @@
 <br><br>
 <br><br>
 
-<p align="left" id="tech-stack" title="Tech Stack"><img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" align="center" height="100rem"> <strong>Tech Stack</strong></p>
+<p align="left" id="tech-stack" title="Tech Stack"><img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Emoji Rocket" align="center" height="100rem"> <strong>Tech Stack</strong></p>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
@@ -56,7 +56,7 @@
 <br><br>
 
 <p id="github-analytics" align="left" title="Github Analytics">
-  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" align="center" height="100rem">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/crystal-ball_1f52e.png" alt="Crystal Ball Emoji" align="center" height="100rem">
   <strong>Github Analytics</strong>
 </p>
 <p align="left">
@@ -68,7 +68,7 @@
 <br><br>
 
 <p id="social-links" align="left" title="Social links">
-  <img src="https://media1.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" align="center" height="100rem">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/milky-way_1f30c.png" alt="Galaxy Emoji" align="center" height="100rem">
   <strong>Social links</strong>
 </p>
 
@@ -85,7 +85,7 @@
 </p>
 
 <h3 id="currently-listening" align="left" title="Currently listening">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/shaking-face_1fae8.png" alt="Emoji se tremendo" align="center" height="25rem" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/musical-notes_1f3b6.png" alt="Musical Notes Emoji" align="center" height="25rem" />
   Currently listening...
 </h3>
 
