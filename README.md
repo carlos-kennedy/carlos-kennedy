@@ -76,9 +76,6 @@
   <a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/" title="instagram">
     <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=instagram">
   </a>
-  <a target="_blank" href="https://twitter.com/Carlozotas" title="twitter">
-    <img src="https://img.shields.io/badge/-twitter-05122A?style=for-the-badge&logo=x">
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/" title="linkedin">
     <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
   </a>
