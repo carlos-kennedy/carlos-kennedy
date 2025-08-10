@@ -39,7 +39,7 @@
 <br><br>
 <br><br>
 
-<h2 align="left" id="tech-stack" title="Tech Stack"><img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Emoji Rocket" align="center" height="100rem"> <strong>Tech Stack</strong></h2>
+<h3 align="left" id="tech-stack" title="Tech Stack"><img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Emoji Rocket" align="center" height="100rem"> <strong>Tech Stack</strong></h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
