@@ -42,11 +42,11 @@
 <h3 align="left" id="tech-stack" title="Tech Stack"><img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" alt="Emoji Rocket" align="center" height="100rem"> <strong>Tech Stack</strong></h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css)
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass)
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)
 ![GITHUB](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=github)
-![VSCODE](https://img.shields.io/badge/-VScode-05122A?style=for-the-badge&logo=visualstudiocode)
+![GIT](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![SQLITE](https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&logo=sqlite)
 ![EXPRESS](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS)
