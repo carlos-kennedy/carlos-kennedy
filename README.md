@@ -74,10 +74,10 @@
 
 <p align="left">
   <a target="_blank" href="https://www.instagram.com/carlos.kny.carlos/" title="instagram">
-    <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/-instagram-05122A?style=for-the-badge&logo=Instagram"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/carloskennedydev/" title="linkedin">
-    <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=linkedin">
+   <img src="https://img.shields.io/badge/-linkedin-05122A?style=for-the-badge&logo=logmein">
   </a>
 </p>
 
